@@ -1,0 +1,18 @@
+{
+  "name":     "wake-example",
+  "version":  "0.0.0",
+
+  "devDependencies": {
+    "wake": ">=0.2.0"
+  },
+
+  "wake": {
+    "javascript": {
+      "sourceDirectory": "src/",
+      "targetDirectory": "dist/",
+      "targets": {
+        "boom.js": ["syntax_fail.js"]
+      }
+    }
+  }
+}

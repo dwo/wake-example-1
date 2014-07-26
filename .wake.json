@@ -1,0 +1,12 @@
+{
+  "javascript": {
+    "boom.js": {
+      "sources": [
+        "src/syntax_fail.js"
+      ],
+      "targets": {
+        "min": "dist/boom.js"
+      }
+    }
+  }
+}
