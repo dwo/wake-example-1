@@ -6,6 +6,8 @@
     "wake": ">=0.2.0"
   },
 
+  "scripts": {"wake": "wake"},
+
   "wake": {
     "javascript": {
       "sourceDirectory": "src/",
