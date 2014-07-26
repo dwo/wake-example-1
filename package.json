@@ -1,6 +1,6 @@
 {
-  "name":     "wake-example",
-  "version":  "0.0.0",
+  "name":     "wake-example-1",
+  "version":  "0.0.1",
 
   "devDependencies": {
     "wake": ">=0.2.0"
